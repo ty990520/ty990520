@@ -17,7 +17,7 @@ Tech Blog : [취준생 태옹](https://taetoungs-branch.tistory.com/) <br/>
 - IntelliJ, STS, Visual Studio Code
 
 
-### DevOps
+### Infra & DevOps
 - MySQL, Oracle
 - AWS Code Deploy
 - AWS Beanstalk, RDS, S3, EC2
